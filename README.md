@@ -1,9 +1,9 @@
-#Database Management Systems Project #
+# Database Management Systems Project #
 
 This repository contains the code for the final project of Database Management Systems course. University of Padua, Italy, academic year 2017-2018.
 
-The aim of this project was the implementation of a state-of-the-art algorithm for keyword search over relation data.
-In particular the implemented algorithm is the one described in the following paper:  
+The aim of this project was the implementation of a state-of-the-art algorithm for keyword search over relation data. 
+The implemented algorithm is the one described in the following paper:  
 B. Aditya, G. Bhalotia, S. Chakrabarti, A. Hulgeri, C. Nakhe, Parag, S. Sudarshan, Banks: browsing and keyword searching in relational databases, in: Proceedings of 28th International Conference on Very Large Data Bases, VLDB 2002, August 20–23, Hong Kong, China, 2002, pp. 1083–1086
 
 ## Project structure ##
